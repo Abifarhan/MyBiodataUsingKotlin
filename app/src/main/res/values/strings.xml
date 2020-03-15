@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Biodata Saya</string>
+    <string name="inputNama">Masukkan Nama</string>
+    <string name="inputUmur">Masukkan Umur</string>
+    <string name="nama">Nama</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="npm">Nomer Mahasiswa</string>
+    <string name="prodi">Jurusan</string>
+    <string name="masukkan_npm">Masukkan Nomer Mahasiswa</string>
+    <string name="masukkan_prodi">Masukkan Jurusan</string>
+    <string name="simpan">Simpan</string>
+</resources>
